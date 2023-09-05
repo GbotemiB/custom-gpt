@@ -1,0 +1,5 @@
+chainlit
+openai
+llama-index
+pypdf
+nltk
